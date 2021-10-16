@@ -1,6 +1,10 @@
-### Sumit Singh
+### Hi there, I'm Sumit Singh 👋
 
-👋 I am the founder of [Synbus Solutions](https://synbussolutions.com/). We're a performance-orientated digital agency and trainer. We help businesses to grow exponentially by automating their business process, as well as we teach and share what we've learned from our experiences. We build solutions based on Google services for automating business processes and driving business productivity.
+[![Website](https://img.shields.io/website?label=synbussolutions.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://synbussolutions.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/singhsumi01?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsinghsumi01&screen_name=singhsumi01)
+
+
+👋 Founder of [Synbus Solutions](https://synbussolutions.com/). We're a performance-orientated digital agency and trainer. We help businesses to grow exponentially by automating their business process, as well as we teach and share what we've learned from our experiences. We build solutions based on Google services for automating business processes and driving business productivity.
 
 🎉 I have done certain certifications, including **The Fundamentals of Digital Marketing**, **Certificate of Participation on Google Cloud OnBoard: Application Development**, **The Online Marketing Fundamentals**, **Data Privacy Law (India)**, and **Cyber Crime Protraction**.
 
