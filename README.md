@@ -6,6 +6,12 @@
 
 🌱 I have developed several projects on Google Apps Script, including [Razorpay CRM](https://synbussolutions.com/razorpay-crm/), [IndiaMART CRM](https://synbussolutions.com/indiamart-crm/), [WhatsApp Payment Reminder](https://synbussolutions.com/whatsapp-payment-reminder/), [WhatsApp Lead Nurturing](https://synbussolutions.com/whatsapp-lead-nurturing/), [Automated WhatsApp Newsletter](https://synbussolutions.com/automated-whatsapp-newsletter/), [WhatsApp Broadcaster](https://synbussolutions.com/whatsapp-broadcaster/), and more that are used in pan India by many companies and entrepreneurs.
 
-🐢 You can follow me on [Twitter](https://twitter.com/singhsumi01), [Facebook](https://www.facebook.com/synbussolutions/), [LinkedIn](https://www.linkedin.com/in/singhsumi01/), [Instagram](https://www.instagram.com/singhsumi01/), and [YouTube](https://www.youtube.com/channel/UCwzu-FNZZRPJKIidaIuuStQ).
+### Connect with me:
 
-📫 You can reach me at sumit@synbussolutions.com
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://synbussolutions.com/)
+[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/synbussolutions/)
+[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/singhsumi01)
+[<img align="left" alt="linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/singhsumi01/)
+[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/singhsumi01/)
+[<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCwzu-FNZZRPJKIidaIuuStQ)
+[<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:sumit@synbussolutions.com)
