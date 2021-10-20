@@ -23,7 +23,35 @@
 [<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCwzu-FNZZRPJKIidaIuuStQ)
 [<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:sumit@synbussolutions.com)<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=singhsumi01&show_icons=true" alt="siinghsumi01"/>
+### Languages, Frameworks, Libraries, Softwares and Tools
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=singhsumi01.singhsumi01)
+<p>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.herokuapp.com/badge/Google%20Apps%20Script-02569B.svg?logo=color-swatch&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>  
+  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+  <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>  
+</p>
 
+### Streak stats
+
+<a href="https://github.com/singhsumi01/github-readme-streak-stats"><img alt="Sumit Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=singhsumi01&hide_border=false&stroke=0000"/></a>
+
+### Github stats
+
+<a href="https://github.com/singhsumi01/github-readme-stats"><img alt="Sumit Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=singhsumi01&show_icons=true&count_private=true&hide_border=false" /></a>
+<a href="https://github.com/singhsumi01/github-readme-stats"><img alt="Sumit Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsumi01&langs_count=8&count_private=true&layout=compact&hide_border=false" /></a>
+
+### Activity Graph
+
+<p align="center"><a href="https://github.com/singhsumi01/github-readme-activity-graph"><img alt="Sumit Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=singhsumi01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a></p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=singhsumi01.singhsumi01) 
+  
