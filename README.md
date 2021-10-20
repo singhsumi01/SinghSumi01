@@ -46,8 +46,8 @@
 
 ### Github stats
 
-<a href="https://github.com/singhsumi01/github-readme-stats"><img alt="Sumit Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=singhsumi01&show_icons=true&count_private=true&hide_border=false" /></a>
-<a href="https://github.com/singhsumi01/github-readme-stats"><img alt="Sumit Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsumi01&langs_count=8&count_private=true&layout=compact&hide_border=false" /></a>
+<a href="https://github.com/singhsumi01/"><img alt="Sumit Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=singhsumi01&show_icons=true&count_private=true&hide_border=false" /></a>
+<a href="https://github.com/singhsumi01/"><img alt="Sumit Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsumi01&langs_count=8&count_private=true&layout=compact&hide_border=false" /></a>
 
 ### Activity Graph
 
