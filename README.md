@@ -42,7 +42,7 @@
 
 ### Streak stats
 
-<a href="https://github.com/singhsumi01/github-readme-streak-stats"><img alt="Sumit Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=singhsumi01&hide_border=false&stroke=0000"/></a>
+<a href="https://github.com/singhsumi01/"><img alt="Sumit Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=singhsumi01&hide_border=false&stroke=0000"/></a>
 
 ### Github stats
 
