@@ -51,7 +51,7 @@
 
 ## Activity Graph
 
-<p align="center"><a href="https://github.com/singhsumi01/github-readme-activity-graph"><img alt="Sumit Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=singhsumi01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a></p>
+<p align="center"><a href="https://github.com/singhsumi01/"><img alt="Sumit Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=singhsumi01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=singhsumi01.singhsumi01) 
   
